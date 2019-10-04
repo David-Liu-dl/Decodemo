@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Docodemo</string>
+
+    <!-- Menus -->
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="fragment_label_red">Red</string>
+    <string name="fragment_label_green">Green</string>
+    <string name="action_add">Add</string>
+    <string name="action_adjust">Adjust</string>
+</resources>
